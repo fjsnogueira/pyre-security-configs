@@ -1,3 +1,5 @@
+**WITH PYRE ADDING THEIR SECURITY CONFIGURATIONS, I AM ARCHIVING THIS REPOSITORY AS I BELIEVE ANY NEW CHECKS SHOULD BE ADDED UPSTREAM**
+
 # pyre-security-configs
 A repository to contain source/sink definitions for Pyre to use
 
